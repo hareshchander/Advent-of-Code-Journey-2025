@@ -40,4 +40,4 @@ def solve_secret_entrance(file_path):
 
 if __name__ == "__main__":
     # Ensure input.txt is in the same directory as this script
-    solve_secret_entrance('sample_input_1.txt')
+    solve_secret_entrance('sample_input_1.txt') 
