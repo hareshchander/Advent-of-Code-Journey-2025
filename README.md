@@ -1,7 +1,3 @@
-# Advent-of-Code-Journey-2025
-My Python solutions for the 12-Day Advent of Code 2025 challenge. Documenting my journey in algorithmic problem solving and logic.
-
-
 # 🎄 12 Days of Code: Advent of Code 2025
 
 ![Python](https://img.shields.io/badge/Language-Python_3.10+-blue?style=for-the-badge&logo=python&logoColor=yellow)
@@ -10,12 +6,28 @@ My Python solutions for the 12-Day Advent of Code 2025 challenge. Documenting my
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ## 📖 About The Project
-This repository contains my solutions for the **Advent of Code 2025**, a series of algorithmic programming puzzles. I am undertaking a specific **12-Day Challenge** to sharpen my problem-solving skills, focusing on writing clean, efficient, and readable Python code.
+This repository documents my journey through the **Advent of Code 2025**, a series of algorithmic programming puzzles. I have set a personal challenge to complete the first **12 Days** of the event, focusing on writing clean, efficient, and well-documented Python code.
 
 ### 🎯 Goals
 - **Consistency:** Solve one puzzle every day.
 - **Efficiency:** Optimize solutions for speed and memory.
 - **Readability:** Write beginner-friendly code that explains the logic.
+
+---
+
+## 🎅 What is Advent of Code?
+
+**Advent of Code (AoC)** is an annual Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language.
+
+* **Origins:** Created by **Eric Wastl** in 2015, it has become a global tradition for developers.
+* **The Format:** Every day from December 1st to December 25th, a new two-part puzzle is unlocked at midnight EST (UTC-5).
+* **The Lore:** The puzzles are wrapped in a whimsical Christmas-themed storyline (e.g., saving Christmas by fixing a sleigh, navigating the North Pole).
+* **The Mechanics:**
+    1.  **Unique Inputs:** Every user gets a different input file, preventing simple answer copying.
+    2.  **Two Parts:** Part 1 is usually an introduction to the problem. Part 2 introduces a twist (larger data, new rules) that often requires refactoring your code or optimizing the algorithm.
+    3.  **Stars:** You earn one gold star (*) for each part solved, for a total of 50 possible stars by Christmas.
+
+It is highly regarded for training skills in **data parsing, graph traversal, dynamic programming, and mathematical optimization**.
 
 ---
 
@@ -25,7 +37,7 @@ This repository contains my solutions for the **Advent of Code 2025**, a series 
 **Total Stars:** 6 / 24
 
 **Progress:**
-![Progress](https://progress-bar.dev/25/?title=Days_Completed&width=600)
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ **25% Complete**
 
 ### 📅 Daily Solutions Log
 
