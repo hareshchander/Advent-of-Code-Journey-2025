@@ -2,7 +2,7 @@ import os
 
 def solve_secret_entrance(file_path):
     # Check if file exists to avoid crashing
-    if not os.path.exists(file_path):
+    if not os.path.exists(file_path): 
         print(f"Error: '{file_path}' not found. Make sure the file is in the same folder.")
         return
 
