@@ -52,12 +52,12 @@ This project follows a modular structure where every day has its own dedicated f
 
 ```mermaid
 graph TD;
-    A[Root Folder] --> B[Day_01];
-    A --> C[Day_02];
-    A --> D[Day_03];
+    A[Root Folder] --> B[Advent of Code Day 1];
+    A --> C[Advent of Code Day 2];
+    A --> D[Advent of Code Day 3];
     A --> E[...];
-    B --> B1[input.txt];
-    B --> B2[solution.py];
+    B --> B1[sample_input_1.txt];
+    B --> B2[AoC_Part1.py];
     C --> C1[input.txt];
     C --> C2[solution_day2.py];
     style A fill:#f9f,stroke:#333,stroke-width:2px
