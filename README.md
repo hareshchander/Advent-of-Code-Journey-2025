@@ -50,8 +50,8 @@ It is highly regarded for training skills in **data parsing, graph traversal, dy
 
 | Day | Puzzle Name | Difficulty | Time Complexity | Solution | Stars |
 | :-: | :--- | :---: | :---: | :---: | :-: |
-| **01** | 🔐 **Secret Entrance** (The Dial) | 🟢 Easy | $O(N)$ | [View Code](./Day_01/solution.py) | ⭐⭐ |
-| **02** | 🎁 **Gift Shop** (Invalid IDs) | 🟡 Medium | $O(N \times M)$ | [View Code](Advent of Code Day 1/AoC_Part1.py) | ⭐⭐ |
+| **01** | 🔐 **Secret Entrance** (The Dial) | 🟢 Easy | $O(N)$ | [View Code](./Advent of Code Day 1/AoC_Part1.py) | ⭐⭐ |
+| **02** | 🎁 **Gift Shop** (Invalid IDs) | 🟡 Medium | $O(N \times M)$ | [View Code](./Day_02/solution.py) | ⭐⭐ |
 | **03** | 🔋 **Lobby** (Batteries) | 🟡 Medium | $O(N^2)$ | [View Code](./Day_03/solution_day3_part2.py) | ⭐⭐ |
 | **04** | ⏳ *Coming Soon* | - | - | - | 🌑 |
 | **05** | ⏳ *Coming Soon* | - | - | - | 🌑 |
