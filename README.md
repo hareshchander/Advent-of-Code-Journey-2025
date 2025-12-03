@@ -8,10 +8,17 @@
 ## 📖 About The Project
 This repository documents my journey through the **Advent of Code 2025**, a series of algorithmic programming puzzles. I have set a personal challenge to complete the first **12 Days** of the event, focusing on writing clean, efficient, and well-documented Python code.
 
-### 🎯 Goals
-- **Consistency:** Solve one puzzle every day.
-- **Efficiency:** Optimize solutions for speed and memory.
-- **Readability:** Write beginner-friendly code that explains the logic.
+---
+
+## 🌟 The Story & Acknowledgements
+
+This repository represents more than just code; it is a testament to the mentorship and community that fueled my growth.
+
+My journey into advanced algorithmic thinking didn't start in isolation. It began with the guidance of my mentor, **Dr. Zafar Shahid (Meta, California)**. His support bridged the gap for me, showing me not just *how* to write code, but how to approach complex problems with an engineer's mindset.
+
+I also owe a huge debt of gratitude to my batch at **AIspirants**. You provided the environment I needed to thrive. You didn't just help me prepare; you taught me **how to think**. You ignited a spark in me—a relentless curiosity and drive to improve—that I know will never end.
+
+This project is dedicated to that spark.
 
 ---
 
@@ -20,7 +27,7 @@ This repository documents my journey through the **Advent of Code 2025**, a seri
 **Advent of Code (AoC)** is an annual Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language.
 
 * **Origins:** Created by **Eric Wastl** in 2015, it has become a global tradition for developers.
-* **The Format:** Every day from December 1st to December 25th, a new two-part puzzle is unlocked at midnight EST (UTC-5).
+* **The Format:** Every day from December 1st to December 12th, a new two-part puzzle is unlocked at midnight EST (UTC-5).
 * **The Lore:** The puzzles are wrapped in a whimsical Christmas-themed storyline (e.g., saving Christmas by fixing a sleigh, navigating the North Pole).
 * **The Mechanics:**
     1.  **Unique Inputs:** Every user gets a different input file, preventing simple answer copying.
