@@ -59,6 +59,10 @@ graph TD;
     B --> B1[sample_input_1.txt];
     B --> B2[AoC_Part1.py];
     B --> B3[AoC_Part2.py];
-    C --> C1[input.txt];
-    C --> C2[solution_day2.py];
+    C --> C1[sample_input_2.txt];
+    C --> C2[AoC_Part1.py];
+    C --> C3[AoC_Part2.py];
+    D --> D1[sample_input_3.txt];
+    D --> D2[AoC_Part1.py];
+    D --> D3[AoC_Part2.py];
     style A fill:#f9f,stroke:#333,stroke-width:2px
