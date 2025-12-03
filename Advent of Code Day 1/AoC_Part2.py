@@ -53,4 +53,4 @@ def solve_part_two(file_path):
         print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
-    solve_part_two('sample_input_1.txt')
+    solve_part_two('sample_input_1.txt') 
