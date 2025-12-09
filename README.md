@@ -1,8 +1,8 @@
 # 🎄 12 Days of Code: Advent of Code 2025
 
 ![Python](https://img.shields.io/badge/Language-Python_3.10+-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![Completion](https://img.shields.io/badge/Days_Completed-6%2F12-green?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars_Collected-12%2F24-yellow?style=for-the-badge)
+![Completion](https://img.shields.io/badge/Days_Completed-8%2F12-green?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars_Collected-16%2F24-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ## 📖 About The Project
@@ -37,11 +37,11 @@ This project is dedicated to that spark.
 ## 📊 Progress & Statistics
 
 **Current Status:** `On Track` 🚀
-**Total Stars:** 12 / 24
+**Total Stars:** 16 / 24
 
 **Progress:**
-<!-- Emoji Progress Bar: 6 days out of 12 is 50% -->
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ **50% Complete**
+<!-- Emoji Progress Bar: 8 days out of 12 is ~67% -->
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ **67% Complete**
 
 ### 📅 Daily Solutions Log
 
@@ -53,38 +53,8 @@ This project is dedicated to that spark.
 | **04** | 🖨️ **Printing Dept** (Grid Simulation) | 🟡 Medium | $O(S \times N \times M)$ | [View Code](./Advent%20of%20Code%20Day%204/AoC_Part2.py) | ⭐⭐ |
 | **05** | 🥗 **Cafeteria** (Interval Merging) | 🔴 Hard | $O(N \log N)$ | [View Code](./Advent%20of%20Code%20Day%205/AoC_Part2.py) | ⭐⭐ |
 | **06** | 🗑️ **Trash Compactor** (Column Parsing) | 🟢 Easy | $O(N \times M)$ | [View Code](./Advent%20of%20Code%20Day%206/AoC_Part2.py) | ⭐⭐ |
-| **07** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **08** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **09** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **10** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **11** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **12** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-
----
-
----
-
-## 📊 Progress & Statistics
-
-**Current Status:** `On Track` 🚀
-**Total Stars:** 10 / 24
-
-**Progress:**
-<!-- Emoji Progress Bar: 5 days out of 12 is ~41% -->
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ **41% Complete**
-
-### 📅 Daily Solutions Log
-
-| Day | Puzzle Name | Difficulty | Time Complexity | Solution | Stars |
-| :-: | :--- | :---: | :---: | :---: | :-: |
-| **01** | 🔐 **Secret Entrance** (The Dial) | 🟢 Easy | $O(N)$ | [View Code](./Day_01/solution.py) | ⭐⭐ |
-| **02** | 🎁 **Gift Shop** (Invalid IDs) | 🟡 Medium | $O(N \times M)$ | [View Code](./Day_02/solution.py) | ⭐⭐ |
-| **03** | 🔋 **Lobby** (Batteries) | 🟡 Medium | $O(N^2)$ | [View Code](./Day_03/solution.py) | ⭐⭐ |
-| **04** | 🖨️ **Printing Dept** (Grid Simulation) | 🟡 Medium | $O(S \times N \times M)$ | [View Code](./Day_04/solution.py) | ⭐⭐ |
-| **05** | 🥗 **Cafeteria** (Interval Merging) | 🔴 Hard | $O(N \log N)$ | [View Code](./Day_05/solution.py) | ⭐⭐ |
-| **06** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **07** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **08** | ⏳ *Coming Soon* | - | - | - | 🌑 |
+| **07** | 🔬 **Laboratories** (Path Counting) | 🟢 Easy | $O(N \times M)$ | [View Code](./Advent%20of%20Code%20Day%207/AoC_Part2.py) | ⭐⭐ |
+| **08** | 💡 **Playground** (Minimum Spanning Tree) | 🟡 Medium | $O(N^2 \log N)$ | [View Code](./Advent%20of%20Code%20Day%208/AoC_Part2.py) | ⭐⭐ |
 | **09** | ⏳ *Coming Soon* | - | - | - | 🌑 |
 | **10** | ⏳ *Coming Soon* | - | - | - | 🌑 |
 | **11** | ⏳ *Coming Soon* | - | - | - | 🌑 |
