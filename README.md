@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ## 📖 About The Project
-This repository documents my journey through the **Advent of Code 2025**, a series of algorithmic programming puzzles. I have set a personal challenge to complete the first **12 Days** of the event, focusing on writing clean, efficient, and well-documented Python code.
+This repository documents my journey through the **Advent of Code 2025**, a series of algorithmic programming puzzles. For this year, the challenge was set from **December 1st to December 12th**, and I successfully completed all 12 days, focusing on writing clean, efficient, and well-documented Python code.
 
 ---
 
@@ -22,11 +22,11 @@ This project is dedicated to that spark.
 
 ---
 
-## 🎅 What is Advent of Code?
+## 🎅 What is Advent of Code 2025?
 
 **Advent of Code (AoC)** is an annual Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language.
 
-* **The Format:** Every day from December 1st to December 25th, a new two-part puzzle is unlocked at midnight EST.
+* **The Timeline:** For 2025, the event ran from **December 1st to December 12th**.
 * **The Mechanics:**
     1.  **Unique Inputs:** Every user gets a different input file.
     2.  **Two Parts:** Part 1 is usually an introduction; Part 2 introduces a twist requiring optimization.
