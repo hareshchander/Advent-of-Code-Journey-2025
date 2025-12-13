@@ -55,10 +55,10 @@ This project is dedicated to that spark.
 | **06** | 🗑️ **Trash Compactor** (Column Parsing) | 🟢 Easy | $O(N \times M)$ | [View Code](./Advent%20of%20Code%20Day%206/AoC_Part2.py) | ⭐⭐ |
 | **07** | 🔬 **Laboratories** (Path Counting) | 🟢 Easy | $O(N \times M)$ | [View Code](./Advent%20of%20Code%20Day%207/AoC_Part2.py) | ⭐⭐ |
 | **08** | 💡 **Playground** (Minimum Spanning Tree) | 🟡 Medium | $O(N^2 \log N)$ | [View Code](./Advent%20of%20Code%20Day%208/AoC_Part2.py) | ⭐⭐ |
-| **09** | 🧩 **[Puzzle Name]** (Topic) | 🟡 Medium | $O(N)$ | [View Code](./Advent%20of%20Code%20Day%209/AoC_Part2.py) | ⭐⭐ |
-| **10** | 🧩 **[Puzzle Name]** (Topic) | 🔴 Hard | $O(N^2)$ | [View Code](./Advent%20of%20Code%20Day%2010/AoC_Part2.py) | ⭐⭐ |
-| **11** | 🧩 **[Puzzle Name]** (Topic) | 🟡 Medium | $O(N \log N)$ | [View Code](./Advent%20of%20Code%20Day%2011/AoC_Part2.py) | ⭐⭐ |
-| **12** | 🎄 **Finale** (Optimization) | 🔴 Hard | $O(N)$ | [View Code](./Advent%20of%20Code%20Day%2012/AoC_Part2.py) | ⭐⭐ |
+| **09** | 🌊 **The River** (Sensor Readings) | 🟡 Medium | $O(N)$ | [View Code](./Advent%20of%20Code%20Day%209/AoC_Part2.py) | ⭐⭐ |
+| **10** | 📡 **Comms Array** (Signal Strength) | 🔴 Hard | $O(N^2)$ | [View Code](./Advent%20of%20Code%20Day%2010/AoC_Part2.py) | ⭐⭐ |
+| **11** | 🎒 **Packing Dept** (Item Sorting) | 🟡 Medium | $O(N \log N)$ | [View Code](./Advent%20of%20Code%20Day%2011/AoC_Part2.py) | ⭐⭐ |
+| **12** | 🏔️ **Hill Climbing** (Pathfinding) | 🔴 Hard | $O(N)$ | [View Code](./Advent%20of%20Code%20Day%2012/AoC_Part2.py) | ⭐⭐ |
 
 ---
 
