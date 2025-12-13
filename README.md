@@ -16,8 +16,6 @@ This repository represents more than just code; it is a testament to the mentors
 
 My journey into advanced algorithmic thinking didn't start in isolation. It began with the guidance of my mentor, **Dr. Zafar Shahid (Meta, California)**. His support bridged the gap for me, showing me not just *how* to write code, but how to approach complex problems with an engineer's mindset.
 
-I also owe a huge debt of gratitude to my batch at **AIspirants**. You provided the environment I needed to thrive. You didn't just help me prepare; you taught me **how to think**. You ignited a spark in me—a relentless curiosity and drive to improve—that I know will never end.
-
 This project is dedicated to that spark.
 
 ---
