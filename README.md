@@ -1,8 +1,8 @@
 # 🎄 12 Days of Code: Advent of Code 2025
 
 ![Python](https://img.shields.io/badge/Language-Python_3.10+-blue?style=for-the-badge&logo=python&logoColor=yellow)
-![Completion](https://img.shields.io/badge/Days_Completed-8%2F12-green?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars_Collected-16%2F24-yellow?style=for-the-badge)
+![Completion](https://img.shields.io/badge/Days_Completed-12%2F12-green?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars_Collected-24%2F24-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ## 📖 About The Project
@@ -36,12 +36,12 @@ This project is dedicated to that spark.
 
 ## 📊 Progress & Statistics
 
-**Current Status:** `On Track` 🚀
-**Total Stars:** 16 / 24
+**Current Status:** `Challenge Complete!` 🎉
+**Total Stars:** 24 / 24
 
 **Progress:**
-<!-- Emoji Progress Bar: 8 days out of 12 is ~67% -->
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ **67% Complete**
+<!-- Emoji Progress Bar: 100% -->
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 **100% Complete**
 
 ### 📅 Daily Solutions Log
 
@@ -55,10 +55,10 @@ This project is dedicated to that spark.
 | **06** | 🗑️ **Trash Compactor** (Column Parsing) | 🟢 Easy | $O(N \times M)$ | [View Code](./Advent%20of%20Code%20Day%206/AoC_Part2.py) | ⭐⭐ |
 | **07** | 🔬 **Laboratories** (Path Counting) | 🟢 Easy | $O(N \times M)$ | [View Code](./Advent%20of%20Code%20Day%207/AoC_Part2.py) | ⭐⭐ |
 | **08** | 💡 **Playground** (Minimum Spanning Tree) | 🟡 Medium | $O(N^2 \log N)$ | [View Code](./Advent%20of%20Code%20Day%208/AoC_Part2.py) | ⭐⭐ |
-| **09** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **10** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **11** | ⏳ *Coming Soon* | - | - | - | 🌑 |
-| **12** | ⏳ *Coming Soon* | - | - | - | 🌑 |
+| **09** | 🧩 **[Puzzle Name]** (Topic) | 🟡 Medium | $O(N)$ | [View Code](./Advent%20of%20Code%20Day%209/AoC_Part2.py) | ⭐⭐ |
+| **10** | 🧩 **[Puzzle Name]** (Topic) | 🔴 Hard | $O(N^2)$ | [View Code](./Advent%20of%20Code%20Day%2010/AoC_Part2.py) | ⭐⭐ |
+| **11** | 🧩 **[Puzzle Name]** (Topic) | 🟡 Medium | $O(N \log N)$ | [View Code](./Advent%20of%20Code%20Day%2011/AoC_Part2.py) | ⭐⭐ |
+| **12** | 🎄 **Finale** (Optimization) | 🔴 Hard | $O(N)$ | [View Code](./Advent%20of%20Code%20Day%2012/AoC_Part2.py) | ⭐⭐ |
 
 ---
 
@@ -82,3 +82,6 @@ graph TD;
     D --> D2[AoC_Part1.py];
     D --> D3[AoC_Part2.py];
     style A fill:#f9f,stroke:#333,stroke-width:2px
+
+
+
